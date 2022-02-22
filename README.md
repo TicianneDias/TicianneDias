@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/TicianneDias/TicianneDias)](https://badges.pufler.dev)
 
-<h2 align="center"> Hi there 👋, Nice to meet you!</h2>
+<h2 align="center"> Hi there 👋, Nice to meet you! <img align="center" alt="TicianneDias-vscode" src="image.png" style="width:130px;"></h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
 <h4 align="left">- 🌱 I'm studying: Bootstrap and React.js. </h4>
 <br>
@@ -12,6 +12,8 @@
 <h4>:gear:&nbsp;GitHub Analytics:</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div style="display: inline_block">
   <h4>:gear:&nbsp;Dev. Tools:</h4>
