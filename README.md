@@ -2,6 +2,8 @@
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
 <br>
 
+[![Visits Badge](https://badges.pufler.dev/visits/TicianneDias/TicianneDias)](https://badges.pufler.dev)
+
 <h4 align="left"> 📱Social Media: </h4>
 <a href="https://www.linkedin.com/in/ticianne-dias-a7a66b134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ticianne's Linkedin"></a>
 <br>
