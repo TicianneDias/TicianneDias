@@ -1,6 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/TicianneDias/TicianneDias)](https://badges.pufler.dev)
 
-<h2 align="center"> Hi there 👋, Nice to meet you! <img align="center" alt="TicianneDias-vscode" src="image.png" style="width:130px;"></h2>
+<img align="right" alt="TicianneDias-vscode" src="image.png" style="width:130px;">
+<h2 align="center"> Hi there 👋, Nice to meet you!</h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
 <h4 align="left">- 🌱 I'm studying: Bootstrap and React.js. </h4>
 <br>
