@@ -3,7 +3,8 @@
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
 <h2 align="center"> Hi there 👋, Nice to meet you!</h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
-<h4 align="left">- 🌱 I'm studying: React.js. and Bootstrap </h4>
+<h5 align="left">- 🌱 I'm studying: React.js. and Bootstrap </h5>
+<h5 align="left">- 📝 My GitHub Page: https://ticiannedias.github.io/ </h5>
 <br>
 
 <h4 align="left"> 📱Social Media: </h4>
@@ -18,8 +19,9 @@
 
 <div style="display: inline_block">
   <h4>:gear:&nbsp;Dev. Tools:</h4>
+  <img align="center" alt="TicianneDias-vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img align="center" alt="TicianneDias-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="TicianneDias-pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img align="center" alt="TicianneDias-pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=lightgrey">
   <img align="center" alt="TicianneDias-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div> 
 
