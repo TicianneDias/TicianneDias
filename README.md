@@ -4,7 +4,7 @@
 <h2 align="center"> Hi there 👋, Nice to meet you!</h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
 <h5 align="left">- 🌱 I'm studying: React.js. and Bootstrap </h5>
-<h5 align="left">- 📝 My GitHub Page: https://ticiannedias.github.io/ </h5>
+<h5 align="left">- 📝 My website: <a href='https://ticiannedias.github.io/' target='_blank'>GitHub Page 💻</a></h5>
 <br>
 
 <h4 align="left"> 📱Social Media: </h4>
