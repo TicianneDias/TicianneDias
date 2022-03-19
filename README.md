@@ -3,7 +3,7 @@
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
 <h2 align="center"> Hi there 👋, Nice to meet you!</h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
-<h5 align="left">- 🌱 I'm studying: React.js. and Bootstrap </h5>
+<h5 align="left">- 🌱 I'm studying: React.js., Styled-Components and Bootstrap </h5>
 <h5 align="left">- 📝 My website: <a href='https://ticiannedias.github.io/'> GitHub Page 💻</a></h5>
 <br>
 
@@ -32,6 +32,7 @@
   <img align="center" alt="TicianneDias-reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="TicianneDias-vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img align="center" alt="TicianneDias-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="TicianneDias-styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div> 
 
 <h4>💻Back-End Skills:</h4>
