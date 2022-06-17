@@ -3,7 +3,7 @@
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
 <h2 align="center"> Hi there 👋, Nice to meet you!</h2>
 <h3 align="center"> My focus is to become a Front-End Dev! </h3>
-<h5 align="left">- 🌱 I'm studying: React.js., Next.js, Styled-Components</h5>
+<h5 align="left">- 🌱 I'm studying: React.js., Styled-Components</h5>
 <h5 align="left">- 📝 My website: <a href='https://ticiannedias.github.io/'> GitHub Page 💻</a></h5>
 <br>
 
