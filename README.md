@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/TicianneDias/TicianneDias)](https://badges.pufler.dev)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TicianneDias.visitor-badge&left_color=red&right_color=green&left_text=GitHub%20Visitors)
 
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
 <h2 align="center"> Hi there 👋, Nice to meet you!</h2>
