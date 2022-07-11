@@ -26,8 +26,9 @@
 
 <h5>⌛ Loading:</h5>
 <div style="display: inline_block" align="left">
-<img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:60px;"> - 
-  <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:65px;"> - 
-  <img alt="TicianneDias-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:60px;"> - 
-  <img alt="TicianneDias-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px;">
+<img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:70px;"> - 
+  <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:75px;"> - 
+  <img alt="TicianneDias-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:70px;"> - 
+  <img alt="TicianneDias-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:50px;"> - 
+  <img alt="TicianneDias-reactnative" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" style="width:60px;">
 </div>
