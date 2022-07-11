@@ -8,7 +8,7 @@
 <h5 align="left"><a href="https://www.linkedin.com/in/ticiannedias" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ticianne's Linkedin" ></a></h5>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> 💻 Skills:</h4>
 <div style="display: inline_block" align="left">
