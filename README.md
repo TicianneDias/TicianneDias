@@ -12,22 +12,22 @@
 
 <h5> 💻 Skills:</h5>
 <div style="display: inline_block" align="left">
-  <img alt="TicianneDias-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width:50px;">-
-  <img alt="TicianneDias-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px;">-
-  <img alt="TicianneDias-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;">-
-  <img alt="TicianneDias-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width:50px;">-
-  <img alt="TicianneDias-reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">-
-  <img alt="TicianneDias-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="width:50px;">-
-  <img alt="TicianneDias-styled-components" src="https://mf.gallerycdn.vsassets.io/extensions/mf/vscode-styled-components/0.2.2/1539329679846/Microsoft.VisualStudio.Services.Icons.Default" style="width:50px;">-
-  <img alt="TicianneDias-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:50px;">-
+  <img alt="TicianneDias-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width:50px;">- 
+  <img alt="TicianneDias-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px;">- 
+  <img alt="TicianneDias-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;"> - 
+  <img alt="TicianneDias-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width:50px;"> - 
+  <img alt="TicianneDias-reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;"> - 
+  <img alt="TicianneDias-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="width:50px;"> - 
+  <img alt="TicianneDias-styled-components" src="https://mf.gallerycdn.vsassets.io/extensions/mf/vscode-styled-components/0.2.2/1539329679846/Microsoft.VisualStudio.Services.Icons.Default" style="width:50px;"> - 
+  <img alt="TicianneDias-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:50px;"> - 
   <img alt="TicianneDias-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="width:60px;">
 </div>
 <br>
 
 <h5>⌛ Loading:</h5>
 <div style="display: inline_block" align="left">
-<img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:60px;">-
-  <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:65px;">-
-  <img alt="TicianneDias-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:60px;">-
+<img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:60px;"> - 
+  <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:65px;"> - 
+  <img alt="TicianneDias-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:60px;"> - 
   <img alt="TicianneDias-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px;">
 </div>
