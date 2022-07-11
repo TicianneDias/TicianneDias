@@ -8,9 +8,9 @@
 <h5 align="left"><a href="https://www.linkedin.com/in/ticiannedias" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ticianne's Linkedin" ></a></h5>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<h5> 💻 Skills:</h5>
+<h4> 💻 Skills:</h4>
 <div style="display: inline_block" align="left">
   <img alt="TicianneDias-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width:50px;">- 
   <img alt="TicianneDias-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px;">- 
@@ -24,10 +24,10 @@
 </div>
 <br>
 
-<h5>⌛ Loading:</h5>
+<h4>⌛ Loading:</h4>
 <div style="display: inline_block" align="left">
-<img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:70px;"> - 
-<img alt="TicianneDias-reactnative" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" style="width:60px;"> - 
+  <img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:70px;"> - 
+  <img alt="TicianneDias-reactnative" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" style="width:60px;"> - 
   <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:75px;"> - 
   <img alt="TicianneDias-express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:70px;"> - 
   <img alt="TicianneDias-figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:50px;">
