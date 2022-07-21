@@ -3,7 +3,7 @@
 
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
 <h2 align="center"> Hi there 👋.. I'm Ticianne, <code>Front-End Developer</code>!</h2>
-<h5 align="left">- 🌱 I'm studying: TypeScript, JavaScript, Next.js</h5>
+<h5 align="left">- 🌱 I'm studying: TypeScript, JavaScript, Next.js, React Native</h5>
 <h5 align="left">- 📝 My website: <a href='https://ticiannedias.github.io/'> GitHub Page 💻</a></h5>
 <h5 align="left"><a href="https://www.linkedin.com/in/ticiannedias" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ticianne's Linkedin" ></a></h5>
 
