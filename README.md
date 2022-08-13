@@ -1,9 +1,8 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TicianneDias.visitor-badge&left_color=black&right_color=crimson&left_text=GitHub%20Visitors)
-
+![Count views](https://komarev.com/ghpvc/?username=ticiannedias&color=blue&style=flat-square)
 
 <img align="right" alt="TicianneDias-img" src="image.png" style="width:130px;">
-<h2 align="center"> Hi there 👋.. I'm Ticianne, <code>Front-End Developer</code>!</h2>
-<h5>- 🌱 I'm studying: TypeScript, JavaScript, Next.js, React Native</h5>
+<h2 align="center"> Hi 👋.. I'm Ticianne, <code>Front-End Developer</code>!</h2>
+<h5>- 🌱 I'm studying: TypeScript, JavaScript, Next.js, React Native, UI/UX</h5>
 <h5>- 📝 My website: <a href='https://ticiannedias.github.io/'> GitHub Page 💻</a></h5>
 <h5><a href="https://www.linkedin.com/in/ticiannedias" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ticianne's Linkedin" ></a></h5>
 
@@ -11,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicianneDias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> 💻 Skills:</h4>
-<div style="display: inline_block">
+<div>
   <img alt="TicianneDias-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width:50px;">- 
   <img alt="TicianneDias-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px;">- 
   <img alt="TicianneDias-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;"> - 
@@ -25,7 +24,7 @@
 <br>
 
 <h4>⌛ Loading:</h4>
-<div style="display: inline_block">
+<div>
   <img alt="TicianneDias-next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="width:70px;"> - 
   <img alt="TicianneDias-reactnative" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" style="width:60px;"> - 
   <img alt="TicianneDias-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:75px;"> - 
